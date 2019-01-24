@@ -27,5 +27,6 @@ int main()
 		b[j]=a[i];
 		count++;
 	}
+	cout<<"\n"<<"unique";
 	return 0;
 }
